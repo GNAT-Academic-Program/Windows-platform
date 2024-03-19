@@ -14,6 +14,6 @@ This is not a restriction, you can extract and work from any location. Also try 
 
 Navigate to the folder and double on the file named:  **SetAlireEnv_2024.bat**   that will set up the envrionmental values to get you going.
 
-Look out for handouts on coding with Ada on Windows pltform using Alire, Gnat-Studio, Visual Studio Code, embedded systems programming and many more...
+Look out for handouts on coding with Ada on Windows pltform using Alire, Gnat-Studio, Visual Studio Code, Embedded Systems Programming and many more...
 
 Enjoy it!
